@@ -41,7 +41,7 @@
  - Kafka, AMQP, GraphQL, Spark.
  - Spring JDBC, Jooq, Jinq, QueryDSL.
  - Spring Security.
- - ElasticSearch, Cassandra.
+ - ElasticSearch, Cassandra, Flyway.
  - Jenkins, Kubernetes.
  - GraalVM, Quarkus.
 
